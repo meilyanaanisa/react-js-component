@@ -1,0 +1,27 @@
+.container{
+  margin-left: 25%;
+  margin-top: 45%;
+}
+
+.com-profile{
+  display:flex;
+  flex-direction:column;
+  text-align:center;
+}
+
+.profil-picture{
+  border-radius: 50px
+}
+
+
+.picture-profile{
+  display:flex;
+  width:100%;
+  margin-left:15%;
+}
+
+.ket-profile{
+  display:flex;
+  flex-direction:column;
+  margin-left:5%;
+}
